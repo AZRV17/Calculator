@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\Calc\\Calc\\Calc.csproj": {}
+    "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ШАРАГА\\С#\\Calc\\Calc\\Calc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\Calc\\Calc\\Calc.csproj": {
+    "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ШАРАГА\\С#\\Calc\\Calc\\Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\Calc\\Calc\\Calc.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ШАРАГА\\С#\\Calc\\Calc\\Calc.csproj",
         "projectName": "Calc",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\Calc\\Calc\\Calc.csproj",
+        "projectPath": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ШАРАГА\\С#\\Calc\\Calc\\Calc.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\Calc\\Calc\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ШАРАГА\\С#\\Calc\\Calc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

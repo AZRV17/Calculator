@@ -20,7 +20,7 @@
                     "9. Выход из программы");
                 action = Convert.ToInt32(Console.ReadLine());
 
-                if (action < 4)
+                if (action > 0 && action < 4)
                 {
                     Console.WriteLine("Введите первое число");
                     double Num1 = Convert.ToDouble(Console.ReadLine());
@@ -85,6 +85,10 @@
                 else if (action == 9)
                 {
                     Console.WriteLine("Выход выполнен.");
+                }
+                else
+                {
+                    Console.WriteLine("Ошибка");
                 }
             } while (action != 9);
         }
